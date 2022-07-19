@@ -1,6 +1,24 @@
 {
   "name": "dts-mini-project",
   "version": "0.1.0",
+  "description": "Movie Web App for dts react2 mini project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurrizkiadip/pair-122-dts-mini-project.git"
+  },
+  "keywords": [
+    "movie-web-app",
+    "mini-project",
+    "dts",
+    "rea2",
+    "rea2a"
+  ],
+  "author": "Nur Rizki Adi Prasetyo & Ray Fajar Salinggih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurrizkiadip/pair-122-dts-mini-project/issues"
+  },
+  "homepage": "https://github.com/nurrizkiadip/pair-122-dts-mini-project#dts-mini-project",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
