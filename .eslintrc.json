@@ -28,6 +28,9 @@
         ]
       }
     ],
-    "react/react-in-jsx-scope": 0
+    "react/react-in-jsx-scope": "off",
+    "react/self-closing-comp": "off",
+    "no-console": "off",
+    "prettier/prettier": "off"
   }
 }
